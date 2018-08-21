@@ -9,3 +9,8 @@ body {
 	height: 100vh;
 	margin-top: 50%;
 }
+
+.links {
+	width: 120px;
+	height: 200px;
+}
